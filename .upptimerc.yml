@@ -2,6 +2,8 @@ owner: laksithaudayanga1110
 repo: dtech-web-monitoring
 
 sites:
+  - name: DSS
+    url: https://luckson-battery.turnon.lk/
   - name: DSI
     url: http://dsi.lk/
   - name: DTech LK
