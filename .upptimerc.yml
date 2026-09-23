@@ -1,31 +1,82 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: laksithaudayanga1110
+repo: dtech-web-monitoring
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: DSI
+    url: http://dsi.lk/
+  - name: DTech LK
+    url: http://dtech.lk/
+  - name: DTech COM
+    url: http://dtechlk.com
+  - name: DSS
+    url: http://www.dss.lk/
+  - name: Samtessi Brush
+    url: http://samtessibrush.lk/
+  - name: Lanka Brush
+    url: http://lankabrush.com/
+  - name: SML Footwear
+    url: https://smlfootwear.com/
+  - name: Primo LK
+    url: http://www.primolk.com/
+  - name: Grant Tech Holdings
+    url: http://granttechholdings.com/
+  - name: Grace LK
+    url: http://gracelk.com/
+  - name: BNB Furnitures
+    url: https://bnbfurnitureslk.com/
+  - name: Sheet Piling Sri Lanka
+    url: http://sheetpilingsrilanka.com/
+  - name: Rajendra Trading
+    url: http://rajendratrading.com/
+  - name: Hummingbird Holiday
+    url: http://hummingbirdholiday.com/
+  - name: Hummingbird LK
+    url: http://hummingbird.lk/
+  - name: Ursidekick
+    url: http://ursidekick.com/
+  - name: Vandanaa
+    url: http://vandanaa.lk/
+  - name: Zynolo LK
+    url: http://zynolo.lk/
+  - name: Zynolo COM
+    url: http://zynolo.com/
+  - name: Social Cookie
+    url: http://www.socialcookie.lk/
+  - name: Araksha LK
+    url: https://araksha.lk/
+  - name: Samson Lines
+    url: https://samsonlines.lk/
+  - name: Ceylan Inc
+    url: https://ceylaninc.com/
+  - name: Samson Compounds
+    url: https://samsoncompounds.com/
+  - name: Spectrum Campus
+    url: https://spectrumcampus.edu.lk/
+  - name: Legante Law
+    url: https://legantelaw.com/
+  - name: Agasti Store
+    url: https://agastistore.lk/
+  - name: Holiday Connex
+    url: https://holidayconnex.com/
+  - name: Devi Jewellers
+    url: https://devijewellers.lk/
+  - name: Wickramaratnes
+    url: https://wickramaratnes.com/
+  - name: Office Plus
+    url: https://officeplus.mv/
+  - name: Lucksons
+    url: https://lucksons.lk/
+  - name: DSI Energy
+    url: http://dsienergy.lk/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /dtech-web-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: DTech Web Monitoring
+  introTitle: "Live Websites Status"
+  introMessage: "Real-time monitoring and status report for our live production websites."
   navbar:
     - title: Status
-      href: /
+      href: /dtech-web-monitoring
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/laksithaudayanga1110/dtech-web-monitoring
