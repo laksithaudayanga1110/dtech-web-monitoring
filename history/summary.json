@@ -6,7 +6,7 @@
     "slug": "dss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,9 +15,7 @@
     "timeWeek": 2102,
     "timeMonth": 2024,
     "timeYear": 2024,
-    "dailyMinutesDown": {
-      "2026-10-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DSI",
@@ -80,7 +78,7 @@
     "slug": "dss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,9 +87,7 @@
     "timeWeek": 2102,
     "timeMonth": 2024,
     "timeYear": 2024,
-    "dailyMinutesDown": {
-      "2026-10-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Samtessi Brush",
@@ -510,7 +506,7 @@
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2026-10-11": 24,
+      "2026-10-11": 26,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
