@@ -6,15 +6,15 @@
     "slug": "dss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2058,
-    "timeDay": 2167,
-    "timeWeek": 2135,
-    "timeMonth": 2058,
-    "timeYear": 2058,
+    "time": 2054,
+    "timeDay": 2160,
+    "timeWeek": 2129,
+    "timeMonth": 2054,
+    "timeYear": 2054,
     "dailyMinutesDown": {
       "2026-10-11": 0
     }
@@ -80,15 +80,15 @@
     "slug": "dss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2058,
-    "timeDay": 2167,
-    "timeWeek": 2135,
-    "timeMonth": 2058,
-    "timeYear": 2058,
+    "time": 2054,
+    "timeDay": 2160,
+    "timeWeek": 2129,
+    "timeMonth": 2054,
+    "timeYear": 2054,
     "dailyMinutesDown": {
       "2026-10-11": 0
     }
@@ -510,7 +510,7 @@
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2026-10-11": 709,
+      "2026-10-11": 724,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
