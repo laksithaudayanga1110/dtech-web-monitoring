@@ -6,18 +6,16 @@
     "slug": "dss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2089,
-    "timeDay": 2153,
+    "timeDay": 2154,
     "timeWeek": 2168,
     "timeMonth": 2089,
     "timeYear": 2089,
-    "dailyMinutesDown": {
-      "2026-10-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DSI",
@@ -80,18 +78,16 @@
     "slug": "dss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2089,
-    "timeDay": 2153,
+    "timeDay": 2154,
     "timeWeek": 2168,
     "timeMonth": 2089,
     "timeYear": 2089,
-    "dailyMinutesDown": {
-      "2026-10-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Samtessi Brush",
@@ -499,18 +495,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/legantelaw.com.ico",
     "slug": "legante-law",
     "status": "down",
-    "uptime": "13.65%",
+    "uptime": "13.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.65%",
-    "uptimeYear": "13.65%",
+    "uptimeMonth": "13.64%",
+    "uptimeYear": "13.64%",
     "time": 159,
     "timeDay": 130,
     "timeWeek": 117,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2026-10-12": 7,
+      "2026-10-12": 28,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
