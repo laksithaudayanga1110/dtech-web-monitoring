@@ -6,18 +6,17 @@
     "slug": "dss",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 2189,
-    "timeDay": 2358,
+    "timeDay": 2326,
     "timeWeek": 2249,
     "timeMonth": 2189,
     "timeYear": 2189,
     "dailyMinutesDown": {
-      "2026-10-12": 43,
-      "2026-10-14": 0
+      "2026-10-12": 43
     }
   },
   {
@@ -81,18 +80,17 @@
     "slug": "dss",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 2189,
-    "timeDay": 2358,
+    "timeDay": 2326,
     "timeWeek": 2249,
     "timeMonth": 2189,
     "timeYear": 2189,
     "dailyMinutesDown": {
-      "2026-10-12": 43,
-      "2026-10-14": 0
+      "2026-10-12": 43
     }
   },
   {
@@ -501,18 +499,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/legantelaw.com.ico",
     "slug": "legante-law",
     "status": "down",
-    "uptime": "12.33%",
+    "uptime": "12.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.33%",
-    "uptimeYear": "12.33%",
+    "uptimeMonth": "12.32%",
+    "uptimeYear": "12.32%",
     "time": 157,
     "timeDay": 121,
     "timeWeek": 110,
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-10-14": 14,
+      "2026-10-14": 36,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
